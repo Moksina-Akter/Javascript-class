@@ -1,4 +1,4 @@
- 
+ /*
  function mySkill(){
 
     document.write('HTML </br>' ) ;
@@ -8,7 +8,6 @@
     document.write('-------End--------  </br>' ) ;
 }
 
-/*
 mySkill();
 
 mySkill();
