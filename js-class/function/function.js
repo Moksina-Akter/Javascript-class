@@ -16,7 +16,7 @@ mySkill();
 
 */
 
-
+/*
 
 function math(){
 
@@ -30,6 +30,6 @@ function math(){
 }
 
 math();
-
+*/
 
 
