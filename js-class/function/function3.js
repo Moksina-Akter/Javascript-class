@@ -21,7 +21,7 @@ printName()
 */
 
 // -----------Global scope-------
-
+/*
 let firstName='Muksina';
 let lastName='Diya';
 
@@ -30,5 +30,31 @@ function printName (){
     console.log(firstName);
 }
 printName()
+*/
+
+/*
+function printName (){
+
+    let firstName='Muksina';
+    let lastName='Diya';
+    console.log(firstName + ' '+ lastName);
+
+    lastName = 'Meem';
+    console.log(firstName + ' '+ lastName);
+}
+printName()
+*/
+
+let firstName='Muksina';
+let lastName='Diya';
+function printName (){
+
+    console.log(firstName + ' '+ lastName);
+
+    lastName = 'Meem';
+    console.log(firstName + ' '+ lastName);
+}
+printName()
+
 
 
