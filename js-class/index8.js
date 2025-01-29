@@ -19,8 +19,8 @@ console.log(firstName,length);
 
 
 ? note:index same,  length same
-   
-*/
+ */  
+
 
 
 
@@ -145,12 +145,12 @@ console.log(newStr);
 */
 
 
-
-// optional : String Reverse Method:
+/*
+! ---------optional : String Reverse Method:--------------
 
 let str = ' We have to learn javaScript very short time';
 //let reverseString = str.split('');
 //let reverseString = str.split('') . reverse();
 let reverseString = str.split('') . reverse(). join('');
 console.log(reverseString);
-
+*/

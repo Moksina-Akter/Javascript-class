@@ -1,6 +1,6 @@
 
 /*
-//-----------trim----------
+!-----------trim----------
 
 let myName = 'Muksina';
 let myName2 = '  Muksina ';

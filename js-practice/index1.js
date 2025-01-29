@@ -1,3 +1,4 @@
+
 let developers = ['Maria', 'Meem', 'Kakoly', 'Muksina', 'Mymona', 'Taslima', 'Habiba', 'Diya', 'Priya', 'Hiya','Liya'];
 
 console.log(developers.length);
@@ -6,6 +7,7 @@ console.log(developers.includes('diya'));
 console.log(developers.indexOf('Priya'));
 console.log(developers.indexOf('Liza'));
 console.log(developers[7]);
+
 
 
 
