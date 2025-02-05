@@ -129,9 +129,53 @@ console.log(newStn);
 
 
 //!-----------------Reverse Looping--------------------- 
+/*
+let numbers = [1,2,3,4,5,6,7,8,9];
+const revNumbers=[];
 
+for(let i=numbers.length-1; i>=0; i--){
 
+    const getData=numbers[i];
+    revNumbers.push(getData);
 
+    console.log(revNumbers);
+}
+
+? note: Reverse korle push noito unshift
+*/
+/*
+let students =['Meem','Muksina','Kakoly','Sweety','Taslima','Jhumu'];
+const newStn=[];
+
+for (let i=students.length-1; i>=0; i--) {
+    
+    const getData = students[i];
+    newStn.push(getData);
+
+    console.log(newStn);
+}
+
+//console.log(newStn);
+*/
+
+/*
+ !------Shortcut Reverse Method---------- 
+
+let numbers = [1,2,3,4,5,6,7,8,9];
+
+const revNumbers=numbers.reverse();
+console.log(revNumbers);
+*/
+
+/*
+let students =['Meem','Muksina','Kakoly','Sweety','Taslima','Jhumu'];
+
+const stn =students.reverse();
+console.log(stn);
+
+ ? note: ---------Important---------*****
+
+ */
 
 
 

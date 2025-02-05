@@ -56,15 +56,15 @@ switch(days){
             document.write('thrusday');
             break;
     case 6:
-    document.write('friday');
-    break;  
+            document.write('friday');
+            break;  
 
     case 7:
-        document.write('saturday')
-        break;
+            document.write('saturday')
+            break;
 
     default:
-        document.write('invalid')
+           document.write('invalid')
 }
 */
         
