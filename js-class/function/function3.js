@@ -9,7 +9,7 @@ function sum(){
 sum()
 */
 /*
-// ----------- local scope -------
+! ----------- local scope -------
 function printName (){
 
     let firstName='Muksina';
@@ -19,9 +19,9 @@ function printName (){
 }
 printName()
 */
-
-// -----------Global scope-------
 /*
+ !-----------Global scope-------
+
 let firstName='Muksina';
 let lastName='Diya';
 

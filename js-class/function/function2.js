@@ -23,9 +23,9 @@ document.write(result);
 
 
 
-
-// -------unary operator-----
 /*
+! -------unary operator-----
+
 let num1 = +prompt();
 let num2 = +prompt();
 let num3 = +prompt();
@@ -56,10 +56,10 @@ document.write(sum);
 
 
 
-
-// ------Ternary operator(condition, ? , :)---------
 /*
-// ---if else----
+! ------Ternary operator(condition, ? , :)---------
+
+! ---if else----
 
 let myAge = 30;
 
@@ -75,7 +75,7 @@ else{
 
 // --ternary operator--
 /*
-// note:condition ? true value (if) : false value (else)
+? note:condition ? true value (if) : false value (else)
 
 let myAge = 17;
 

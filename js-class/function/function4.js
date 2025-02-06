@@ -1,5 +1,6 @@
-//-----Parameter and Argument.--------
 /*
+!-----Parameter and Argument.--------
+
 function meal () {
 
     console.log('Dim baji');
@@ -69,9 +70,9 @@ sum(1,2,3,4,5);
 
 
 
-
-//-----uppercase,lowercase---------
 /*
+!-----uppercase,lowercase---------
+
 let students = 'Web Developer';
 let stn =['Muksina', 'Akter', 'Diya'];
 console.log(students.length);
