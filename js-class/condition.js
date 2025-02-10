@@ -31,7 +31,7 @@ else{
 
 
 // _____________switch(day)______________
-/*
+
 let days = +prompt();
 
 switch(days){
@@ -53,7 +53,7 @@ switch(days){
         break;
 
     case 5:
-            document.write('thrusday');
+            document.write('thursday');
             break;
     case 6:
             document.write('friday');
@@ -66,7 +66,7 @@ switch(days){
     default:
            document.write('invalid')
 }
-*/
+
         
 
 
