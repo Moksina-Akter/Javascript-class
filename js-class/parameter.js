@@ -128,9 +128,9 @@ function array (name){
   
 }
 array(['Maria','Sultana','Meem','Muksina'])
+*/
 
-
-
+/*
 function object (a){
    console.log(a);
 
@@ -139,7 +139,19 @@ object( newOb ={
       names:'maria',
        address:'Kutubpur'
 } )
-       
+
 */
+
+
+
+
+
+
+
+
+
+
+
+
 
   
