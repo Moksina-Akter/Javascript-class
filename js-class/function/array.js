@@ -1,5 +1,6 @@
-
 /*
+! ---------------------function a array use----------------
+
 function add(num){
     let sum = 0;
     for (const arr of num) {
@@ -74,6 +75,18 @@ const rst = add(nums);
 console.log(rst);
 
 */
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
