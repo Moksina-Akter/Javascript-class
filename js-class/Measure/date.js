@@ -63,14 +63,23 @@ console.log(date.toLocaleString());
 /*
 ? Custom Formating:
 
-let options = { weekday: "long", 
-    year: "numeric", 
-    month: "long", 
-    day: "numeric" 
+let options = { weekday: "long",   //"short" //"narrow"
+                year: "numeric", 
+                month: "long", 
+                day: "numeric" 
     };
     let formattedDate = new Date().toLocaleDateString("bn-BD", options);
+    let formattedDate = new Date().toLocaleDateString("en-gb", options);
+
     console.log(formattedDate);
     */
+
+
+
+let setDate = new Date ()
+console.log(setDate.toLocaleString('en-gb'));
+console.log(setDate.toLocaleString('bn-gb'));
+
 
 
 

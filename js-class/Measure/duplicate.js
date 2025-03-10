@@ -55,20 +55,5 @@ console.log(noDupli(students));
 
 
 
-//!---------------swap veriable, swap without temp, destructing------------
-let diya = 'Book';
-let meem ='Chocolate';
-
-//console.log(diya,meem);
-
-let muksina = diya;
-
-diya=meem;
-meem=muksina;
-
-console.log(diya,meem);
-
-
-
 
 

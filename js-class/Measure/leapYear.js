@@ -14,6 +14,9 @@ console.log(leapYear(2025));
 console.log(leapYear(2024));
 console.log(leapYear(2000));
 */
+
+
+
 /*
 ? 1। Math.abs() - ধনাত্মক মান
 
